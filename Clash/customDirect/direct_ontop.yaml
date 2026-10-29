@@ -23,6 +23,11 @@ payload:
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,beijicloud.top
   - DOMAIN-SUFFIX,paoluz.link
+  
+  # > ugreen nas (remote access relay)
+  - DOMAIN-SUFFIX,ug.link
+  - DOMAIN-SUFFIX,ugnas.com
+  - DOMAIN-SUFFIX,ugreengroup.com
 
     # local router
   - DOMAIN-SUFFIX,zte.home
